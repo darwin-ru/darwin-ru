@@ -18,7 +18,7 @@
 
 ---
 
-# 01. 👨‍💻 PERFIL PROFESIONAL
+# 01.  PERFIL PROFESIONAL
 
 Estudiante de Ingeniería de Sistemas Cibernéticos en la Universidad San Buenaventura, interesado en el desarrollo de software, la programación, la electrónica y las tecnologías computacionales.
 

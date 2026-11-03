@@ -28,38 +28,38 @@ Mi objetivo es crecer profesionalmente en el campo de la ingeniería, fortalecie
 
 ---
 
-# 02. 📡 INFORMACIÓN DE CONTACTO
+# 02.  INFORMACIÓN DE CONTACTO
 
 | Dato | Información |
 |:---|:---|
-| 📱 Teléfono | 322 835 6844 |
-| 📧 Correo | darwinossa10@gmail.com |
-| 🎓 Universidad | Universidad San Buenaventura |
-| 💻 Carrera | Ingeniería de Sistemas Cibernéticos |
-| 📍 País | Colombia |
+|  Teléfono | 322 835 6844 |
+|  Correo | darwinossa10@gmail.com |
+|  Universidad | Universidad San Buenaventura |
+|  Carrera | Ingeniería de Sistemas Cibernéticos |
+|  País | Colombia |
 
 ---
 
-# 03. 🎓 FORMACIÓN ACADÉMICA
+# 03.  FORMACIÓN ACADÉMICA
 
-### 🎓 Ingeniería de Sistemas Cibernéticos
+###  Ingeniería de Sistemas Cibernéticos
 **Universidad San Buenaventura**
 
 `EN CURSO`
 
-### 🎨 Media técnica en Diseño Gráfico
+###  Media técnica en Diseño Gráfico
 **SENA**
 
 `2023`
 
-### 📚 Bachiller académico
+###  Bachiller académico
 **I.E. Manuel Uribe Ángel**
 
 `2023`
 
 ---
 
-# 04. 💻 LENGUAJES DE PROGRAMACIÓN
+# 04.  LENGUAJES DE PROGRAMACIÓN
 
 *Espacio para registrar los lenguajes que conozco y mi progreso.*
 
@@ -75,7 +75,7 @@ Mi objetivo es crecer profesionalmente en el campo de la ingeniería, fortalecie
 
 ---
 
-# 05. ⚙️ TECNOLOGÍAS Y HERRAMIENTAS
+# 05.  TECNOLOGÍAS Y HERRAMIENTAS
 
 *las herramientas que utilizo durante mi formación.*
 
@@ -90,7 +90,7 @@ Mi objetivo es crecer profesionalmente en el campo de la ingeniería, fortalecie
 ---
 
 
-# 06. 🧠 HABILIDADES Y COMPETENCIAS
+# 06.  HABILIDADES Y COMPETENCIAS
 
 ### Competencias personales
 
@@ -112,7 +112,7 @@ Mi objetivo es crecer profesionalmente en el campo de la ingeniería, fortalecie
 
 ---
 
-# 7. 🌎 IDIOMAS
+# 7.  IDIOMAS
 
 ### Inglés
 
